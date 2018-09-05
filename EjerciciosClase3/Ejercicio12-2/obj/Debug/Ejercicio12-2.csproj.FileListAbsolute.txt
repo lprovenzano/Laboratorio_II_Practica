@@ -1,0 +1,8 @@
+C:\Users\alumno\Desktop\EjerciciosClase3\Ejercicio12-2\obj\Debug\Ejercicio12-2.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\EjerciciosClase3\Ejercicio12-2\bin\Debug\Ejercicio12-2.exe.config
+C:\Users\alumno\Desktop\EjerciciosClase3\Ejercicio12-2\bin\Debug\Ejercicio12-2.exe
+C:\Users\alumno\Desktop\EjerciciosClase3\Ejercicio12-2\bin\Debug\Ejercicio12-2.pdb
+C:\Users\alumno\Desktop\EjerciciosClase3\Ejercicio12-2\bin\Debug\EjerciciosClase3.exe
+C:\Users\alumno\Desktop\EjerciciosClase3\Ejercicio12-2\bin\Debug\EjerciciosClase3.pdb
+C:\Users\alumno\Desktop\EjerciciosClase3\Ejercicio12-2\obj\Debug\Ejercicio12-2.exe
+C:\Users\alumno\Desktop\EjerciciosClase3\Ejercicio12-2\obj\Debug\Ejercicio12-2.pdb

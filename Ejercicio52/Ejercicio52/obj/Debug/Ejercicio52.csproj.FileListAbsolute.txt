@@ -1,0 +1,8 @@
+D:\VisualStudio\Ejercicio52\Ejercicio52\bin\Debug\Ejercicio52.exe.config
+D:\VisualStudio\Ejercicio52\Ejercicio52\bin\Debug\Ejercicio52.exe
+D:\VisualStudio\Ejercicio52\Ejercicio52\bin\Debug\Ejercicio52.pdb
+D:\VisualStudio\Ejercicio52\Ejercicio52\obj\Debug\Ejercicio52.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ejercicio52\Ejercicio52\obj\Debug\Ejercicio52.exe
+D:\VisualStudio\Ejercicio52\Ejercicio52\obj\Debug\Ejercicio52.pdb
+D:\VisualStudio\Ejercicio52\Ejercicio52\bin\Debug\Entidades.dll
+D:\VisualStudio\Ejercicio52\Ejercicio52\bin\Debug\Entidades.pdb

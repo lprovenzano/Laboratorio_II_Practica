@@ -1,0 +1,6 @@
+D:\VisualStudio\BaseDeDatosPractice\BaseDeDatosPractice\bin\Debug\BaseDeDatosPractice.exe.config
+D:\VisualStudio\BaseDeDatosPractice\BaseDeDatosPractice\bin\Debug\BaseDeDatosPractice.exe
+D:\VisualStudio\BaseDeDatosPractice\BaseDeDatosPractice\bin\Debug\BaseDeDatosPractice.pdb
+D:\VisualStudio\BaseDeDatosPractice\BaseDeDatosPractice\obj\Debug\BaseDeDatosPractice.csprojResolveAssemblyReference.cache
+D:\VisualStudio\BaseDeDatosPractice\BaseDeDatosPractice\obj\Debug\BaseDeDatosPractice.exe
+D:\VisualStudio\BaseDeDatosPractice\BaseDeDatosPractice\obj\Debug\BaseDeDatosPractice.pdb

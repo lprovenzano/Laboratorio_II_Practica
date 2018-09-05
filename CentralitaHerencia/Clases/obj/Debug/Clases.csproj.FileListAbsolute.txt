@@ -1,0 +1,10 @@
+D:\Luca E\CentralitaHerencia\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+D:\Luca E\CentralitaHerencia\Clases\bin\Debug\Clases.dll
+D:\Luca E\CentralitaHerencia\Clases\bin\Debug\Clases.pdb
+D:\Luca E\CentralitaHerencia\Clases\obj\Debug\Clases.dll
+D:\Luca E\CentralitaHerencia\Clases\obj\Debug\Clases.pdb
+C:\Users\alumno\Desktop\CentralitaHerencia\Clases\bin\Debug\Clases.dll
+C:\Users\alumno\Desktop\CentralitaHerencia\Clases\bin\Debug\Clases.pdb
+C:\Users\alumno\Desktop\CentralitaHerencia\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\CentralitaHerencia\Clases\obj\Debug\Clases.dll
+C:\Users\alumno\Desktop\CentralitaHerencia\Clases\obj\Debug\Clases.pdb

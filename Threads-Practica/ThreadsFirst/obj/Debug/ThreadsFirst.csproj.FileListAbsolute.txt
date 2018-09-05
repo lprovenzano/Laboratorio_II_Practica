@@ -1,0 +1,9 @@
+C:\Users\alumno\Desktop\BaseDeDatosPractice\ThreadsFirst\bin\Debug\ThreadsFirst.exe.config
+C:\Users\alumno\Desktop\BaseDeDatosPractice\ThreadsFirst\bin\Debug\ThreadsFirst.exe
+C:\Users\alumno\Desktop\BaseDeDatosPractice\ThreadsFirst\bin\Debug\ThreadsFirst.pdb
+C:\Users\alumno\Desktop\BaseDeDatosPractice\ThreadsFirst\obj\Debug\ThreadsFirst.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\BaseDeDatosPractice\ThreadsFirst\obj\Debug\ThreadsFirst.Form1.resources
+C:\Users\alumno\Desktop\BaseDeDatosPractice\ThreadsFirst\obj\Debug\ThreadsFirst.Properties.Resources.resources
+C:\Users\alumno\Desktop\BaseDeDatosPractice\ThreadsFirst\obj\Debug\ThreadsFirst.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\BaseDeDatosPractice\ThreadsFirst\obj\Debug\ThreadsFirst.exe
+C:\Users\alumno\Desktop\BaseDeDatosPractice\ThreadsFirst\obj\Debug\ThreadsFirst.pdb

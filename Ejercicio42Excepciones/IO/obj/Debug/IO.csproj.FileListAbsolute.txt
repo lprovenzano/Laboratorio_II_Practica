@@ -1,0 +1,5 @@
+C:\Users\alumno\Downloads\Clase22-Exceptions\Ejercicio42Excepciones\IO\bin\Debug\IO.dll
+C:\Users\alumno\Downloads\Clase22-Exceptions\Ejercicio42Excepciones\IO\bin\Debug\IO.pdb
+C:\Users\alumno\Downloads\Clase22-Exceptions\Ejercicio42Excepciones\IO\obj\Debug\IO.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Downloads\Clase22-Exceptions\Ejercicio42Excepciones\IO\obj\Debug\IO.dll
+C:\Users\alumno\Downloads\Clase22-Exceptions\Ejercicio42Excepciones\IO\obj\Debug\IO.pdb

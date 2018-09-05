@@ -1,0 +1,6 @@
+D:\Luca E\Clase5\Clase5Ejercicio\bin\Debug\Clase5Ejercicio.exe.config
+D:\Luca E\Clase5\Clase5Ejercicio\bin\Debug\Clase5Ejercicio.exe
+D:\Luca E\Clase5\Clase5Ejercicio\bin\Debug\Clase5Ejercicio.pdb
+D:\Luca E\Clase5\Clase5Ejercicio\obj\Debug\Clase5Ejercicio.csprojResolveAssemblyReference.cache
+D:\Luca E\Clase5\Clase5Ejercicio\obj\Debug\Clase5Ejercicio.exe
+D:\Luca E\Clase5\Clase5Ejercicio\obj\Debug\Clase5Ejercicio.pdb

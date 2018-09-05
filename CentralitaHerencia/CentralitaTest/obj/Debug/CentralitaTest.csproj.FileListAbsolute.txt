@@ -1,0 +1,7 @@
+C:\Users\alumno\Desktop\CentralitaHerencia\CentralitaTest\bin\Debug\CentralitaTest.dll
+C:\Users\alumno\Desktop\CentralitaHerencia\CentralitaTest\bin\Debug\CentralitaTest.pdb
+C:\Users\alumno\Desktop\CentralitaHerencia\CentralitaTest\bin\Debug\Clases.dll
+C:\Users\alumno\Desktop\CentralitaHerencia\CentralitaTest\bin\Debug\Clases.pdb
+C:\Users\alumno\Desktop\CentralitaHerencia\CentralitaTest\obj\Debug\CentralitaTest.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\CentralitaHerencia\CentralitaTest\obj\Debug\CentralitaTest.dll
+C:\Users\alumno\Desktop\CentralitaHerencia\CentralitaTest\obj\Debug\CentralitaTest.pdb

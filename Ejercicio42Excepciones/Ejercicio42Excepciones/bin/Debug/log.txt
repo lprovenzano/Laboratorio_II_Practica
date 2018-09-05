@@ -1,0 +1,3 @@
+Mi Exception
+System.DivideByZeroException: No podes dividir por cero
+   at Ejercicio42Excepciones.Division.Operar(Double a, Double b) in c:\Users\alumno\Downloads\Clase22-Exceptions\Ejercicio42Excepciones\Ejercicio42Excepciones\Division.cs:line 16

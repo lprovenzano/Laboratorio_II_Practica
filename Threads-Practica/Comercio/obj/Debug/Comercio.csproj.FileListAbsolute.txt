@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\BaseDeDatosPractice\Comercio\obj\Debug\Comercio.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\BaseDeDatosPractice\Comercio\bin\Debug\Comercio.exe.config
+C:\Users\alumno\Desktop\BaseDeDatosPractice\Comercio\bin\Debug\Comercio.exe
+C:\Users\alumno\Desktop\BaseDeDatosPractice\Comercio\bin\Debug\Comercio.pdb
+C:\Users\alumno\Desktop\BaseDeDatosPractice\Comercio\obj\Debug\Comercio.exe
+C:\Users\alumno\Desktop\BaseDeDatosPractice\Comercio\obj\Debug\Comercio.pdb

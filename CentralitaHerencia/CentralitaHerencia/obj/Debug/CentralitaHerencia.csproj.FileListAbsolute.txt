@@ -1,0 +1,16 @@
+D:\Luca E\CentralitaHerencia\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+D:\Luca E\CentralitaHerencia\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+D:\Luca E\CentralitaHerencia\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+D:\Luca E\CentralitaHerencia\CentralitaHerencia\bin\Debug\Clases.dll
+D:\Luca E\CentralitaHerencia\CentralitaHerencia\bin\Debug\Clases.pdb
+D:\Luca E\CentralitaHerencia\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+D:\Luca E\CentralitaHerencia\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+D:\Luca E\CentralitaHerencia\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+C:\Users\alumno\Desktop\CentralitaHerencia\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+C:\Users\alumno\Desktop\CentralitaHerencia\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+C:\Users\alumno\Desktop\CentralitaHerencia\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+C:\Users\alumno\Desktop\CentralitaHerencia\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+C:\Users\alumno\Desktop\CentralitaHerencia\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+C:\Users\alumno\Desktop\CentralitaHerencia\CentralitaHerencia\bin\Debug\Clases.dll
+C:\Users\alumno\Desktop\CentralitaHerencia\CentralitaHerencia\bin\Debug\Clases.pdb
+C:\Users\alumno\Desktop\CentralitaHerencia\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache

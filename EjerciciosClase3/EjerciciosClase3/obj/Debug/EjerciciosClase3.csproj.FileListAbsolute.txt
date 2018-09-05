@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\EjerciciosClase3\EjerciciosClase3\bin\Debug\EjerciciosClase3.exe.config
+C:\Users\alumno\Desktop\EjerciciosClase3\EjerciciosClase3\bin\Debug\EjerciciosClase3.exe
+C:\Users\alumno\Desktop\EjerciciosClase3\EjerciciosClase3\bin\Debug\EjerciciosClase3.pdb
+C:\Users\alumno\Desktop\EjerciciosClase3\EjerciciosClase3\obj\Debug\EjerciciosClase3.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\EjerciciosClase3\EjerciciosClase3\obj\Debug\EjerciciosClase3.exe
+C:\Users\alumno\Desktop\EjerciciosClase3\EjerciciosClase3\obj\Debug\EjerciciosClase3.pdb

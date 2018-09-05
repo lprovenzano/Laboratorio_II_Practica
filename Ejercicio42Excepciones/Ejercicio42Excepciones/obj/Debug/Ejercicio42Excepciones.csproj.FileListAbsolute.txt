@@ -1,0 +1,14 @@
+C:\Users\alumno\Desktop\Ejercicio42Excepciones\Ejercicio42Excepciones\bin\Debug\Ejercicio42Excepciones.exe.config
+C:\Users\alumno\Desktop\Ejercicio42Excepciones\Ejercicio42Excepciones\bin\Debug\Ejercicio42Excepciones.exe
+C:\Users\alumno\Desktop\Ejercicio42Excepciones\Ejercicio42Excepciones\bin\Debug\Ejercicio42Excepciones.pdb
+C:\Users\alumno\Desktop\Ejercicio42Excepciones\Ejercicio42Excepciones\obj\Debug\Ejercicio42Excepciones.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Ejercicio42Excepciones\Ejercicio42Excepciones\obj\Debug\Ejercicio42Excepciones.exe
+C:\Users\alumno\Desktop\Ejercicio42Excepciones\Ejercicio42Excepciones\obj\Debug\Ejercicio42Excepciones.pdb
+C:\Users\alumno\Downloads\Clase22-Exceptions\Ejercicio42Excepciones\Ejercicio42Excepciones\bin\Debug\Ejercicio42Excepciones.exe.config
+C:\Users\alumno\Downloads\Clase22-Exceptions\Ejercicio42Excepciones\Ejercicio42Excepciones\obj\Debug\Ejercicio42Excepciones.exe
+C:\Users\alumno\Downloads\Clase22-Exceptions\Ejercicio42Excepciones\Ejercicio42Excepciones\obj\Debug\Ejercicio42Excepciones.pdb
+C:\Users\alumno\Downloads\Clase22-Exceptions\Ejercicio42Excepciones\Ejercicio42Excepciones\bin\Debug\Ejercicio42Excepciones.exe
+C:\Users\alumno\Downloads\Clase22-Exceptions\Ejercicio42Excepciones\Ejercicio42Excepciones\bin\Debug\Ejercicio42Excepciones.pdb
+C:\Users\alumno\Downloads\Clase22-Exceptions\Ejercicio42Excepciones\Ejercicio42Excepciones\obj\Debug\Ejercicio42Excepciones.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Downloads\Clase22-Exceptions\Ejercicio42Excepciones\Ejercicio42Excepciones\bin\Debug\IO.dll
+C:\Users\alumno\Downloads\Clase22-Exceptions\Ejercicio42Excepciones\Ejercicio42Excepciones\bin\Debug\IO.pdb

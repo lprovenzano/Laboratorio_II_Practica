@@ -1,0 +1,13 @@
+c:\users\luca_provenzano\source\repos\EjerciciosUnidad2\Ejercicio11\bin\Debug\Ejercicio11.exe.config
+c:\users\luca_provenzano\source\repos\EjerciciosUnidad2\Ejercicio11\bin\Debug\Ejercicio11.exe
+c:\users\luca_provenzano\source\repos\EjerciciosUnidad2\Ejercicio11\bin\Debug\Ejercicio11.pdb
+c:\users\luca_provenzano\source\repos\EjerciciosUnidad2\Ejercicio11\obj\Debug\Ejercicio11.csprojResolveAssemblyReference.cache
+c:\users\luca_provenzano\source\repos\EjerciciosUnidad2\Ejercicio11\obj\Debug\Ejercicio11.csproj.CoreCompileInputs.cache
+c:\users\luca_provenzano\source\repos\EjerciciosUnidad2\Ejercicio11\obj\Debug\Ejercicio11.exe
+c:\users\luca_provenzano\source\repos\EjerciciosUnidad2\Ejercicio11\obj\Debug\Ejercicio11.pdb
+C:\Users\alumno\Desktop\EjerciciosUnidad2\Ejercicio11\bin\Debug\Ejercicio11.exe.config
+C:\Users\alumno\Desktop\EjerciciosUnidad2\Ejercicio11\obj\Debug\Ejercicio11.exe
+C:\Users\alumno\Desktop\EjerciciosUnidad2\Ejercicio11\obj\Debug\Ejercicio11.pdb
+C:\Users\alumno\Desktop\EjerciciosUnidad2\Ejercicio11\bin\Debug\Ejercicio11.exe
+C:\Users\alumno\Desktop\EjerciciosUnidad2\Ejercicio11\bin\Debug\Ejercicio11.pdb
+C:\Users\alumno\Desktop\EjerciciosUnidad2\Ejercicio11\obj\Debug\Ejercicio11.csprojResolveAssemblyReference.cache

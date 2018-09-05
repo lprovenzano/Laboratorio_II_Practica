@@ -1,0 +1,8 @@
+D:\Provenzano.Luca.2C\VistaConsola\bin\Debug\VistaConsola.exe.config
+D:\Provenzano.Luca.2C\VistaConsola\bin\Debug\VistaConsola.exe
+D:\Provenzano.Luca.2C\VistaConsola\bin\Debug\VistaConsola.pdb
+D:\Provenzano.Luca.2C\VistaConsola\obj\Debug\VistaConsola.csprojResolveAssemblyReference.cache
+D:\Provenzano.Luca.2C\VistaConsola\obj\Debug\VistaConsola.exe
+D:\Provenzano.Luca.2C\VistaConsola\obj\Debug\VistaConsola.pdb
+D:\Provenzano.Luca.2C\VistaConsola\bin\Debug\Entidades.dll
+D:\Provenzano.Luca.2C\VistaConsola\bin\Debug\Entidades.pdb

@@ -1,0 +1,5 @@
+D:\VisualStudio\Ejercicio52\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ejercicio52\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Ejercicio52\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\Ejercicio52\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Ejercicio52\Entidades\obj\Debug\Entidades.pdb

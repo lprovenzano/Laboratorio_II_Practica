@@ -1,0 +1,11 @@
+D:\Provenzano.Luca.2C\VistaForm\bin\Debug\VistaForm.exe.config
+D:\Provenzano.Luca.2C\VistaForm\bin\Debug\VistaForm.exe
+D:\Provenzano.Luca.2C\VistaForm\bin\Debug\VistaForm.pdb
+D:\Provenzano.Luca.2C\VistaForm\obj\Debug\VistaForm.csprojResolveAssemblyReference.cache
+D:\Provenzano.Luca.2C\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+D:\Provenzano.Luca.2C\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.Cache
+D:\Provenzano.Luca.2C\VistaForm\obj\Debug\VistaForm.exe
+D:\Provenzano.Luca.2C\VistaForm\obj\Debug\VistaForm.pdb
+D:\Provenzano.Luca.2C\VistaForm\obj\Debug\VistaForm.FormularioOficina.resources
+D:\Provenzano.Luca.2C\VistaForm\bin\Debug\Entidades.dll
+D:\Provenzano.Luca.2C\VistaForm\bin\Debug\Entidades.pdb
